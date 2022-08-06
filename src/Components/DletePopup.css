@@ -1,0 +1,11 @@
+.del_popup{
+    background-color: #f7f7f7!important;
+    width: 300px !important;
+    height: 200px !important;
+    /* padding: 400px !important; */
+
+}
+
+.action_btn{
+    margin-top: 10% !important;
+}

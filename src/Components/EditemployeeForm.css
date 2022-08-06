@@ -1,0 +1,14 @@
+.edit {
+    margin-top: 10%;
+  }
+  .edit .textFeild {
+    width: 200px;
+    margin: 10px;
+  }
+  
+  .edit_card {
+    width: 270px;
+    height: 500px;
+    border: 1px solid black;
+    
+  }

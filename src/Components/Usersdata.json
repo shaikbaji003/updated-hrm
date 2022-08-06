@@ -1,0 +1,114 @@
+{
+    "usersdata": [
+      {
+          "id":1,
+        "gender": "male",
+        "name": { "title": "Monsieur", "first": "Liam", "last": "Arnaud" },
+        "email": "liam.arnaud@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/76.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+        }
+      },
+      {
+          "id":2,
+        "gender": "male",
+        "name": { "title": "Mr", "first": "Riccardo", "last": "Van de Weerd" },
+        "email": "riccardo.vandeweerd@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/75.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+        }
+      },
+      {
+          "id":3,
+        "gender": "female",
+        "name": { "title": "Ms", "first": "Izzie", "last": "Fox" },
+        "email": "izzie.fox@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/84.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+        }
+      },
+      {
+          "id":4,
+        "gender": "female",
+        "name": { "title": "Mrs", "first": "Aleena", "last": "Løchen" },
+        "email": "aleena.lochen@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/88.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+        }
+      },
+      {
+          "id":5,
+        "gender": "male",
+        "name": { "title": "Mr", "first": "Flenn", "last": "Lambert" },
+        "email": "flenn.lambert@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/64.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+        }
+      },
+      {
+          "id":6,
+        "gender": "male",
+        "name": { "title": "Mr", "first": "Levi", "last": "Carr" },
+        "email": "levi.carr@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/0.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+        }
+      },
+      {
+          "id":7,
+        "gender": "female",
+        "name": { "title": "Ms", "first": "Victoire", "last": "Meyer" },
+        "email": "victoire.meyer@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/1.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+        }
+      },
+      {
+          "id":8,
+        "gender": "male",
+        "name": { "title": "Monsieur", "first": "André", "last": "Philippe" },
+        "email": "andre.philippe@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/81.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+        }
+      },
+      {
+          "id":9,
+        "gender": "male",
+        "name": { "title": "Mr", "first": "Earl", "last": "Jensen" },
+        "email": "earl.jensen@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/0.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+        }
+      },
+      {
+          "id":10,
+        "gender": "female",
+        "name": { "title": "Mrs", "first": "Scarlett", "last": "Morris" },
+        "email": "scarlett.morris@example.com",
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/19.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+        }
+      }
+    ]
+  }

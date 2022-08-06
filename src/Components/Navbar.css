@@ -1,0 +1,19 @@
+.appbar{
+    background-color: rgba(14, 14, 244, 0.953) !important;
+}
+
+.icon_btn{
+    color: #f7f7f7 !important; 
+    margin-left: 1200px !important;
+    /* background-color: rgba(14, 14, 244, 0.953) !important; */
+    float: left !important;
+
+    
+
+}
+
+.logo{
+    /* width: 100px !important; */
+    /* height: 45px !important; */
+    /* padding: 5px !important; */
+}

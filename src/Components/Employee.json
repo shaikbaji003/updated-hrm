@@ -1,0 +1,122 @@
+{
+    "employees": [
+        {"id":1,"first_name":"Baji","last_name":"Shaik","email":"shaikbaji003@gmail.com","gender":"Male","roleId":4,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/76.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+          }},
+        {"id":2,"first_name":"Janine","last_name":"Hanster","email":"jhanster1@wikia.com","gender":"Female","roleId":3,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/75.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+          }},
+        {"id":3,"first_name":"Vachel","last_name":"Ciciotti","email":"vciciotti2@time.com","gender":"Male","roleId":3, "picture": {
+            "large": "https://randomuser.me/api/portraits/women/84.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+          }},
+        {"id":4,"first_name":"Arabela","last_name":"Vearnals","email":"avearnals3@skyrock.com","gender":"Female","roleId":1,"picture": {
+            "large": "https://randomuser.me/api/portraits/women/88.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+          }},
+        {"id":5,"first_name":"Junia","last_name":"Robertsen","email":"jrobertsen4@slideshare.net","gender":"Female","roleId":3,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/64.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+          }},
+        {"id":6,"first_name":"Yuri","last_name":"Pheasant","email":"ypheasant5@microsoft.com","gender":"Male","roleId":1,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/0.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+          }},
+        {"id":7,"first_name":"Xylia","last_name":"Sambiedge","email":"xsambiedge6@psu.edu","gender":"Female","roleId":2,"picture": {
+            "large": "https://randomuser.me/api/portraits/women/1.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+          }},
+        {"id":8,"first_name":"Arturo","last_name":"Van Halle","email":"avanhalle7@4shared.com","gender":"Male","roleId":3,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/81.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+          }},
+        {"id":9,"first_name":"Arnuad","last_name":"Gathercole","email":"agathercole8@mozilla.org","gender":"Male","roleId":3,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/0.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+          }},
+        {"id":10,"first_name":"Xenia","last_name":"Cullabine","email":"xcullabine9@mac.com","gender":"Female","roleId":3,"picture": {
+            "large": "https://randomuser.me/api/portraits/women/19.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+          }},
+        {"id":11,"first_name":"Hedda","last_name":"Kelmere","email":"hkelmerea@nbcnews.com","gender":"Female","roleId":1,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/81.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+          }},
+        {"id":12,"first_name":"Shani","last_name":"Byre","email":"sbyreb@altervista.org","gender":"Female","roleId":2,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/64.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+          }},
+        {"id":13,"first_name":"Selie","last_name":"Hellier","email":"shellierc@istockphoto.com","gender":"Non-binary","roleId":2,"picture": {
+            "large": "https://randomuser.me/api/portraits/women/1.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+          }},
+        {"id":14,"first_name":"Breanne","last_name":"Brayley","email":"bbrayleyd@youtu.be","gender":"Female","roleId":1,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/0.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+          }},
+        {"id":15,"first_name":"Noll","last_name":"Gothrup","email":"ngothrupe@redcross.org","gender":"Male","roleId":3,"picture": {
+            "large": "https://randomuser.me/api/portraits/women/1.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+          }},
+        {"id":16,"first_name":"Bendite","last_name":"Winnett","email":"bwinnettf@mit.edu","gender":"Female","roleId":3,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/0.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+          }},
+        {"id":17,"first_name":"Tripp","last_name":"Ackenson","email":"tackensong@netlog.com","gender":"Male","roleId":3,"picture": {
+            "large": "https://randomuser.me/api/portraits/women/88.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+          }},
+        {"id":18,"first_name":"Lenna","last_name":"Waycott","email":"lwaycotth@admin.ch","gender":"Female","roleId":1, "picture": {
+            "large": "https://randomuser.me/api/portraits/women/84.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+          }},
+        {"id":19,"first_name":"Frederico","last_name":"Braime","email":"fbraimei@hexun.com","gender":"Male","roleId":2,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/75.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+          }},
+        {"id":20,"first_name":"Karlens","last_name":"Wimmer","email":"kwimmerj@taobao.com","gender":"Male","roleId":2,"picture": {
+            "large": "https://randomuser.me/api/portraits/men/76.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+          }}
+       
+    ],
+    "roles": [
+        {
+            "id": 1,
+            "name": "Manager"
+        },
+        {
+            "id": 2,
+            "name": "Engineer"
+        },
+        {
+            "id": 3,
+            "name": "Intern"
+        },{
+          "id":4,
+          "name":"CEO"
+        }
+    ]
+}
